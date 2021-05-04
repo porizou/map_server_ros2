@@ -19,6 +19,6 @@ $ colcon build
 # Usage
 
 ```bash
-ros2 run map_server_ros2 map_server_ros2
+ros2 run map_server_ros2 map_server
 ```
 
